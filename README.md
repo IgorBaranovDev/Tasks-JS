@@ -4,3 +4,6 @@
 # 2. advanced-zeros
 # 3. brackets
 # 4. quadratic equation
+# 5. sorter
+# 6. priority queue task
+
